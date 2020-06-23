@@ -1,0 +1,24 @@
+{
+  "name": "great-bay-bidding-app",
+  "version": "1.0.0",
+  "description": "Node application to post, select and bid on items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayanneSamarasinghe/Great-Bay-Bidding-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShayanneSamarasinghe/Great-Bay-Bidding-App/issues"
+  },
+  "homepage": "https://github.com/ShayanneSamarasinghe/Great-Bay-Bidding-App#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
